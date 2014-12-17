@@ -31,3 +31,5 @@ resources/templates.list
 build/
 build.properties
 junit*.properties
+# Maven
+target/ 
